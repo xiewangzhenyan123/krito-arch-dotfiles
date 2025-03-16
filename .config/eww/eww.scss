@@ -1,0 +1,25 @@
+// @import "../../../.cache/wal/colors.scss";
+
+*{
+  all: unset;
+  font-family: "Mononoki";
+  font-weight: bold;
+  // font-size: 14px;
+}
+// *{
+//   height: 10px;
+//   background-color: transparent;
+//   border: none;
+//   outline: none;
+// }
+
+// button {
+//   // min-height: 0;
+//   background-color: transparent;
+//   border: none;
+//   outline: none;
+// }
+
+@import "scss/bar.scss";
+@import "scss/side-bar.scss";
+@import "scss/wallpaper.scss";
